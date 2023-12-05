@@ -1,7 +1,5 @@
 package org.soliddemo.liskov;
 
-import java.io.UncheckedIOException;
-
 public class Penguin extends Bird
 {
     @Override
